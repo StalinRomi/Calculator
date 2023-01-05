@@ -1,1 +1,3 @@
-Calculator developed using Golang.  
+Calculator developed using Golang.
+
+Operations -> Addition, Deletion, Subtraction, Division
